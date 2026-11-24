@@ -20,9 +20,9 @@ I'm a Data & BI Analyst with research and reporting experience at FactSet, an MS
 **Consumer Credit & Portfolio Performance Modeling** *(Risk & Quantitative Analytics)* Standardized repeatable data-cleaning, validation, and performance-tracking checks with structured documentation using Python, Pandas, Scikit-learn, Statsmodels, and Excel
 
 ### 📜 Certifications
-- Microsoft Generative AI for Data Analysis — Coursera
-- Business Intelligence & Data Analyst (BIDA®) — Corporate Finance Institute (CFI)
-- Alteryx Advanced — Coursera
+- Microsoft Generative AI for Data Analysis - Coursera
+- Business Intelligence & Data Analyst (BIDA®) - Corporate Finance Institute (CFI)
+- Alteryx Advanced - Coursera
 
 ### 🌟 Interests
 - Building automated KPI reporting and clear data storytelling workflows
